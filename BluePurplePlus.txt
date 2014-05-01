@@ -1,0 +1,9 @@
+## Title: |c6572FFBlue |cA757FFPurple |cFF9620Plus|r
+## APIVersion: 100003
+## SavedVariables: BPP_data
+
+LibStub/LibStub.lua
+LibAddonMenu-1.0/LibAddonMenu-1.0.lua
+
+
+
