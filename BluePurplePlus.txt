@@ -5,5 +5,5 @@
 LibStub/LibStub.lua
 LibAddonMenu-1.0/LibAddonMenu-1.0.lua
 
-
-
+BluePurplePlus.lua
+BluePurplePlusSettings.lua
